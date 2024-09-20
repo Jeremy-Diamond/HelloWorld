@@ -13,8 +13,6 @@ Basic Hello World program in Python. I created this program to learn and demonst
 * Python 3.9.5
 *Git / GitHub
 
-{Describe the programming language that you used}
-
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
