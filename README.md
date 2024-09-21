@@ -14,7 +14,6 @@ I created this simple HelloWorld program in visual studio code to learn how to s
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [BYU training video](https://video.byui.edu/media/t/1_zyyx43ke)
 * [Python](https://www.python.org/)
 * [GitHub](https://github.com)
